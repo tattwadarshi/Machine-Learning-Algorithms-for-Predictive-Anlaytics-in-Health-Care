@@ -18,7 +18,6 @@ Classification involves deciding whether a sample is part of one class or anothe
 
 Since we already have a dataset, we'll approach the problem with the following machine learning modelling framework.
 
-| <img src="ml101-6-step-ml-framework.png" width=500/> | 
 <img src="ml101-6-step-ml-framework-tools.png" alt=" 6 Step Machine Learning Modelling Framework" style="width: 600px;">
 
 More specifically, we'll look at the following steps in the machine learning pipeline:
@@ -34,9 +33,8 @@ More specifically, we'll look at the following steps in the machine learning pip
 
 To work through these steps, we'll use pandas, Matplotlib and NumPy for data anaylsis, as well as, Scikit-Learn for machine learning and modelling tasks.
 
-| <img src="../images/supervised-projects-6-step-ml-framework-tools-highlight.png" width=500/> | 
-|:--:| 
-| Tools which can be used for each step of the machine learning modelling process. |
+<img src="supervised-projects-6-step-ml-framework-tools-highlight.png" alt=" Tools which can be used for each step of the machine learning modelling process" style="width: 600px;">
+
 
 We'll work through each step and by the end of the project, we'll have a handful of models, all which can predict whether or not a person has heart disease based on a number of different parameters at a considerable accuracy. 
 
